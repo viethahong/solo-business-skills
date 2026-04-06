@@ -1,13 +1,12 @@
 ---
 name: workflow-automation
-description: >
-  Kích hoạt khi user đang làm đi làm lại một quy trình thủ công, hoặc muốn giảm thời gian
-  vận hành. Cũng dùng khi user hỏi "làm sao để tự động hóa việc X", "tôi có thể dùng
-  Zapier/Make để làm Y không", hoặc "tôi đang mất quá nhiều giờ vào các việc không
-  tạo ra doanh thu".
-metadata:
-  version: 1.0.0
-  author: Hạ Hồng Việt — Sellator
+description: Tự động hóa các quy trình lặp đi lặp lại.
+triggers:
+  - tự động hóa
+  - dùng Zapier
+  - Make
+  - tiết kiệm thời gian
+  - liên kết tool
 ---
 
 # ⚙️ Workflow Automation — Làm ít, ra nhiều hơn

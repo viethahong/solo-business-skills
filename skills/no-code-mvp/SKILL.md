@@ -1,13 +1,12 @@
 ---
 name: no-code-mvp
-description: >
-  Kích hoạt khi user muốn xây dựng sản phẩm, công cụ, hoặc dịch vụ nhưng lo ngại về
-  thời gian, chi phí hoặc kỹ năng kỹ thuật. Cũng dùng khi user hỏi "tôi nên dùng gì
-  để build", "tôi không biết code có làm được không", "nên thuê dev hay tự làm",
-  hoặc "làm sao để ra sản phẩm trong thời gian ngắn nhất".
-metadata:
-  version: 1.0.0
-  author: Hạ Hồng Việt — Sellator
+description: Xây dựng sản phẩm, công cụ nhanh nhất với No-code.
+triggers:
+  - build sản phẩm
+  - làm MVP
+  - dùng tool gì
+  - không biết code
+  - thuê dev hay tự làm
 ---
 
 # 🚀 No-Code MVP — Ra sản phẩm nhanh nhất có thể

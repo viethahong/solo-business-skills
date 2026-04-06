@@ -1,13 +1,12 @@
 ---
 name: product-model
-description: >
-  Kích hoạt khi user muốn thiết kế mô hình sản phẩm hoặc dịch vụ — bao gồm cấu trúc
-  gói, cách định giá, và cách vận hành. Cũng dùng khi user hỏi "tôi nên bán theo dạng
-  gì", "làm sao để scale mà không cạn sức", "tôi nên có mấy gói giá", hoặc
-  "nên bắt đầu từ sản phẩm hay dịch vụ".
-metadata:
-  version: 1.0.0
-  author: Hạ Hồng Việt — Sellator
+description: Thiết kế mô hình sản phẩm hoặc dịch vụ và cấu trúc định giá.
+triggers:
+  - mô hình sản phẩm
+  - định giá
+  - tôi nên bán dạng gì
+  - cấu trúc gói
+  - nên bán khóa học hay dịch vụ
 ---
 
 # 📦 Product Model — Thiết kế Mô hình Sản phẩm & Dịch vụ

@@ -1,13 +1,12 @@
 ---
 name: customer-research
-description: >
-  Kích hoạt khi user cần hiểu sâu hơn về khách hàng mục tiêu, hoặc chưa biết ai là
-  người sẽ mua sản phẩm/dịch vụ của mình. Cũng dùng khi user hỏi "khách hàng của tôi
-  là ai", "họ cần gì thật sự", "tôi hiểu khách hàng chưa đủ", hoặc "tại sao khách hàng
-  không mua dù tôi nghĩ sản phẩm tốt".
-metadata:
-  version: 1.0.0
-  author: Hạ Hồng Việt — Sellator
+description: Nghiên cứu khách hàng mục tiêu để hiểu nỗi đau và khao khát thật sự.
+triggers:
+  - khách hàng của tôi là ai
+  - họ cần gì
+  - nghiên cứu khách hàng
+  - vẽ chân dung
+  - ICP
 ---
 
 # 🔍 Customer Research — Hiểu khách hàng sâu hơn chính họ hiểu về mình

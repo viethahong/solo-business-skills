@@ -1,13 +1,11 @@
 ---
 name: launch-strategy
-description: >
-  Kích hoạt khi user chuẩn bị ra mắt sản phẩm, dịch vụ, hoặc thương hiệu mới. Cũng dùng
-  khi user hỏi "tôi ra mắt như thế nào", "làm sao để có khách ngay từ ngày đầu",
-  "tôi nên ra mắt trên kênh nào", hoặc "làm sao tạo được sự kiện ra mắt gây chú ý
-  mà không có ngân sách lớn".
-metadata:
-  version: 1.0.0
-  author: Hạ Hồng Việt — Sellator
+description: Chiến lược ra mắt sản phẩm, dịch vụ hoặc thương hiệu mới.
+triggers:
+  - ra mắt
+  - launch
+  - làm sao để có khách ngày đầu
+  - chiến dịch ra mắt
 ---
 
 # 🚀 Launch Strategy — Chiến lược Ra mắt Sản phẩm

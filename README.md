@@ -21,33 +21,51 @@ Khi tích hợp vào dự án, AI sẽ có khả năng:
 
 ---
 
-## 🧠 Skills có sẵn
+## 🧠 Skills có sẵn (Bản đồ 21 Kỹ năng V3)
 
 | Skill | Kích hoạt khi nào | Framework tích hợp |
 |---|---|---|
-| `solo-business-context` | ⭐ **Đọc trước tiên** — Khai báo bối cảnh dự án | GAMES (Sellator) |
+| **🔍 Khám phá & Định hướng** | | |
+| `solo-health-check` | ⭐ **Meta-skill:** Tự định vị dự án đang ở giai đoạn nào | 4-Stage Roadmap |
+| `solo-business-context` | **Khởi tạo:** Khai báo bối cảnh dự án | GAMES (Sellator) |
 | `customer-research` | Nghiên cứu khách hàng mục tiêu | BUY + VALUE (Sellator) |
 | `idea-validation` | Test ý tưởng trước khi triển khai sản phẩm | BUY (Sellator) |
 | `solo-competitor-analysis` | Tìm ngách, phân tích đối thủ | RARE (Sellator) |
-| `product-model` | Thiết kế mô hình sản phẩm và dịch vụ | ABC + GAMES + BUY + UỒI |
+| **📦 Thiết kế sản phẩm** | | |
+| `product-model` | Thiết kế mô hình sản phẩm và dịch vụ | ABC + GAMES |
 | `no-code-mvp` | Xây sản phẩm/dịch vụ với nguồn lực tối thiểu | ABC (Sellator) |
-| `workflow-automation` | Tự động hóa việc lặp đi lặp lại | — |
-| `launch-strategy` | Chiến lược ra mắt sản phẩm mới | GAMES + 5E + BUY + FOMO |
+| **🚀 Ra mắt & Bán hàng** | | |
+| `launch-strategy` | Chiến lược ra mắt sản phẩm mới | GAMES + FOMO |
 | `sales-script` | Kịch bản bán hàng và thuyết phục | BUY + VALUE + FOMO + 5T |
+| `freelance-proposal` | Viết Proposal/báo giá không thể từ chối | Grand Slam Offer, UỒI |
+| **📣 Truyền thông & Nội dung** | | |
 | `personal-branding` | Xây thương hiệu cá nhân trên social | 4T (Sellator) |
-| `content-creation` | Sáng tạo nội dung thu hút khách hàng | BUY + VALUE + 5T + 5E |
 | `media-channel` | Xây kênh truyền thông bền vững | — |
+| `content-creation` | Sáng tạo nội dung thu hút khách hàng | 5T + VALUE + 5E |
 | `content-repurposing` | Biến 1 bài thành nội dung cho 5 kênh | 5T + VALUE + 5E (Sellator) |
+| `email-newsletter` | Xây dựng và duy trì Email List | Volume, 5E |
+| **⚙️ Vận hành & Nâng cao** | | |
+| `workflow-automation` | Tự động hóa việc lặp đi lặp lại | — |
+| `solo-finance` | Quản lý dòng tiền, định mức Runway | Value Equation |
+| `customer-onboarding` | Đón tiếp khách mới, xoá bỏ hoài nghi | VALUE |
+| `retention` | Giữ chân khách hàng, giảm Churn | VALUE, ABC |
+| `referral-program` | Thiết kế hệ thống mạng lưới giới thiệu | Double-sided Incentive |
+| `solo-productivity` | Quản trị năng lượng, chống Burn-out | Eliminate - Automate - Delegate |
+| `decision-making` | Mental model tự ra quyết định | Expected Value, Inversion |
 
-### Cấu trúc mỗi Skill
+### Cấu trúc mỗi Skill & Hệ thống Knowledge
 
 ```
-skills/<tên-skill>/
-├── SKILL.md          ← AI đọc file này — quy trình và hướng dẫn
-├── evals/
-│   └── test-cases.md ← Checklist để bạn tự kiểm tra AI đang chạy đúng không
-└── references/
-    └── *.md          ← Frameworks chi tiết, bảng công cụ, blueprint mẫu
+solopreneur-business-skills/
+├── knowledge/                ← [MỚI] Trung tâm dữ liệu dự án
+│   ├── frameworks/           ← Tổng hợp các Framework của Sellator & Hormozi
+│   ├── macro/                ← Dữ liệu vĩ mô
+│   ├── micro/                ← Dữ liệu vi mô/ngách
+│   └── personal/             ← Dữ liệu cá nhân (đã được .gitignore)
+└── skills/<tên-skill>/
+    ├── SKILL.md              ← AI đọc file này — quy trình và hướng dẫn
+    └── examples/
+        └── checklist.md      ← Checklist & Ví dụ để bạn tự kiểm tra AI
 ```
 
 ---
@@ -140,11 +158,8 @@ solo-business-context  ← Đọc trước tiên
 
 Mọi đóng góp đều được chào đón! Xem `CONTRIBUTING.md` để biết cấu trúc chuẩn của một skill.
 
-**Skill đang cần:**
-- `solo-finance.md` — Quản lý dòng tiền và pricing
-- `email-newsletter.md` — Xây danh sách email từ 0
-- `freelance-pitching.md` — Viết proposal thuyết phục
-- `launch-strategy.md` — Ra mắt trên Product Hunt, Reddit
+**Skill đang mở rộng thêm:**
+- Nếu bạn có ý tưởng skill mới, hãy Submit Issue hoặc Pull Request trên GitHub.
 
 ---
 

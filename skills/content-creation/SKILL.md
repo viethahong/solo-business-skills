@@ -1,13 +1,12 @@
 ---
 name: content-creation
-description: >
-  Kích hoạt khi user muốn tạo nội dung để thu hút khách hàng, xây dựng uy tín, hoặc
-  phát triển kênh. Cũng dùng khi user hỏi "tôi nên viết về gì", "làm sao để nội dung
-  của tôi hay hơn", "tôi muốn tạo video/bài viết/podcast nhưng không biết bắt đầu
-  từ đâu", hoặc "làm sao để nội dung thu hút đúng khách hàng".
-metadata:
-  version: 1.0.0
-  author: Hạ Hồng Việt — Sellator
+description: Sáng tạo nội dung để thu hút khách hàng và xây uy tín.
+triggers:
+  - viết nội dung
+  - tạo content
+  - viết blog
+  - nội dung thu hút
+  - tôi nên viết về gì
 ---
 
 # ✍️ Content Creation — Sáng tạo Nội dung Thu hút Khách hàng

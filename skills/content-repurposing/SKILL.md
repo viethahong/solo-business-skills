@@ -1,13 +1,11 @@
 ---
 name: content-repurposing
-description: >
-  Kích hoạt khi user muốn tạo nhiều nội dung từ ít nguồn lực, hoặc không biết cách
-  phân phối nội dung hiệu quả. Cũng dùng khi user hỏi "tôi không có thời gian viết
-  nhiều", "làm sao để có nội dung cho nhiều kênh", hoặc "tôi đã có 1 bài blog,
-  giờ phải làm gì tiếp".
-metadata:
-  version: 1.0.0
-  author: Hạ Hồng Việt — Sellator
+description: Tái chế một nội dung gốc ra nhiều nền tảng khác nhau.
+triggers:
+  - tái chế nội dung
+  - không có thời gian viết
+  - 1 bài ra nhiều kênh
+  - phân phối content
 ---
 
 # ♻️ Content Repurposing — Làm 1, dùng được 10

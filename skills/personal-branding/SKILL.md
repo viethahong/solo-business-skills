@@ -1,13 +1,12 @@
 ---
 name: personal-branding
-description: >
-  Kích hoạt khi user muốn xây dựng thương hiệu cá nhân, tăng hiện diện trên mạng xã hội,
-  hoặc xây dựng uy tín trong ngành. Cũng dùng khi user hỏi "làm sao để mọi người biết
-  đến tôi", "tôi nên đăng gì", "tôi chưa có follower thì bắt đầu từ đâu", hoặc
-  "làm thế nào để tìm khách hàng qua mạng xã hội".
-metadata:
-  version: 1.0.0
-  author: Hạ Hồng Việt — Sellator
+description: Xây dựng thương hiệu cá nhân và tăng hiện diện trên mạng xã hội.
+triggers:
+  - thương hiệu cá nhân
+  - tôi nên đăng gì
+  - chưa có follower
+  - nổi tiếng hơn
+  - nhân hiệu
 ---
 
 # 🗣️ Personal Branding (Founder-Led Growth)

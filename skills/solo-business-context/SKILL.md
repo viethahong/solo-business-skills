@@ -1,13 +1,12 @@
 ---
 name: solo-business-context
-description: >
-  Khai báo bối cảnh kinh doanh của người dùng. Đây là file nền tảng — tất cả các skill khác
-  phải đọc file này trước khi hành động. Kích hoạt kỹ năng này khi user muốn thiết lập
-  thông tin dự án, hoặc khi bất kỳ skill nào khác cần context về nguồn lực và mô hình
-  kinh doanh của user.
-metadata:
-  version: 1.0.0
-  author: Hạ Hồng Việt — Sellator
+description: Khai báo bối cảnh kinh doanh của người dùng.
+triggers:
+  - bối cảnh dự án
+  - thông tin dự án
+  - mô hình kinh doanh
+  - nguồn lực
+  - bắt đầu dự án
 ---
 
 # 🗺️ Solo Business Context

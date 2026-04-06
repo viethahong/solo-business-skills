@@ -1,13 +1,12 @@
 ---
 name: sales-script
-description: >
-  Kích hoạt khi user cần tư vấn cách bán hàng, viết kịch bản thuyết phục, hoặc xử lý
-  cuộc trò chuyện với khách hàng tiềm năng. Cũng dùng khi user hỏi "tôi nên nói gì
-  khi gặp khách", "làm sao để thuyết phục khách mua", "tôi không giỏi bán hàng",
-  hoặc "khách đang phân vân không chốt".
-metadata:
-  version: 1.0.0
-  author: Hạ Hồng Việt — Sellator
+description: Kịch bản bán hàng và xử lý từ chối cho Solopreneur.
+triggers:
+  - kịch bản bán hàng
+  - thuyết phục khách
+  - khách phân vân
+  - chốt sale
+  - nói gì khi gặp khách
 ---
 
 # 💬 Sales Script — Kịch bản Bán hàng cho Solopreneur

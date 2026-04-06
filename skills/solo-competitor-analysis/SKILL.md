@@ -1,13 +1,12 @@
 ---
 name: solo-competitor-analysis
-description: >
-  Kích hoạt khi user muốn hiểu thị trường cạnh tranh, tìm ngách để tồn tại, hoặc lo ngại
-  về đối thủ lớn. Cũng dùng khi user hỏi "ai cũng đã làm rồi tôi còn cơ hội không",
-  "tôi khác gì đối thủ", "tôi nên tập trung vào phân khúc nào", hoặc
-  "thị trường này bão hòa chưa".
-metadata:
-  version: 1.0.0
-  author: Hạ Hồng Việt — Sellator
+description: Phân tích đối thủ và tìm ngách để tồn tại.
+triggers:
+  - đối thủ
+  - tìm ngách
+  - ai cũng làm rồi
+  - thị trường bão hòa
+  - khác biệt
 ---
 
 # 🕵️ Solo Competitor Analysis — Tìm ngách, không đối đầu trực diện

@@ -1,12 +1,12 @@
 ---
 name: idea-validation
-description: >
-  Kích hoạt khi user có ý tưởng sản phẩm hoặc dịch vụ mới và muốn biết nên triển khai
-  hay không. Cũng dùng khi user hỏi "ý tưởng này có ai trả tiền không", "tôi nên làm cái
-  này không", "làm sao để test ý tưởng", hoặc "tôi không biết mình có đúng thị trường không".
-metadata:
-  version: 1.0.0
-  author: Hạ Hồng Việt — Sellator
+description: Kiểm chứng ý tưởng trước khi làm / triển khai sản phẩm.
+triggers:
+  - test ý tưởng
+  - có ai trả tiền không
+  - nên làm cái này không
+  - validation
+  - ý tưởng mới
 ---
 
 # 💡 Idea Validation — Kiểm chứng ý tưởng trước khi code

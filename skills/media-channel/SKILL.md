@@ -1,13 +1,12 @@
 ---
 name: media-channel
-description: >
-  Kích hoạt khi user muốn xây dựng kênh truyền thông riêng để phát triển audience
-  lâu dài. Cũng dùng khi user hỏi "tôi nên có kênh nào", "làm sao để xây dựng
-  kênh từ 0", "tôi nên làm YouTube, TikTok, Podcast hay Newsletter", hoặc
-  "làm sao để kênh của tôi tăng trưởng đều đặn".
-metadata:
-  version: 1.0.0
-  author: Hạ Hồng Việt — Sellator
+description: Xây dựng kênh truyền thông riêng để phát triển audience lâu dài.
+triggers:
+  - xây kênh
+  - làm YouTube hay TikTok
+  - bắt đầu kênh podcast
+  - bản tin email
+  - tăng trưởng kênh
 ---
 
 # 📡 Media Channel — Xây kênh Truyền thông Bền vững
