@@ -32,7 +32,7 @@ Trước khi build, hãy xác định sản phẩm của bạn nằm ở tầng 
 > Gợi ý: Bắt đầu bằng **C** (bán dịch vụ thủ công) để hiểu khách hàng sâu nhất.
 > Sau đó **productize** thành **B**, rồi cuối cùng tự động hóa thành **A**.
 
-Chi tiết framework ABC: xem `references/abc-framework.md`
+Chi tiết framework ABC: xem `knowledge/frameworks/ABC.md`
 
 ---
 

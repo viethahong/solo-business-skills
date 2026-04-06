@@ -83,7 +83,7 @@ Chatbase/Crisp (AI bot trên website, học từ docs của bạn)
   → Bạn chỉ tiếp những case thực sự cần người thật
 ```
 
-Xem thêm blueprint templates: `references/automation-blueprints.md`
+Xem thêm blueprint templates: `knowledge/frameworks/automation-blueprints.md`
 
 ---
 

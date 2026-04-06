@@ -64,7 +64,7 @@ solopreneur-business-skills/
 │   └── personal/             ← Dữ liệu cá nhân (đã được .gitignore)
 └── skills/<tên-skill>/
     ├── SKILL.md              ← AI đọc file này — quy trình và hướng dẫn
-    └── examples/
+    └── support/
         └── checklist.md      ← Checklist & Ví dụ để bạn tự kiểm tra AI
 ```
 
@@ -169,4 +169,4 @@ MIT License — Xem [LICENSE](LICENSE) để biết thêm.
 
 ---
 
-*Xây dựng từ tri thức của [Hạ Hồng Việt — Sellator](https://sellator.net) · Dành cho cộng đồng Solopreneur Việt Nam* 🇻🇳
+*Xây dựng từ tri thức của [Hạ Hồng Việt — Sellator](https://hahongviet.com) · Dành cho cộng đồng Solopreneur Việt Nam* 🇻🇳

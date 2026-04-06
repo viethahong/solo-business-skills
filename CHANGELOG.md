@@ -17,7 +17,7 @@ Tất cả những thay đổi quan trọng đối với Solopreneur Business Sk
   - `decision-making`: Mindset + ra quyết định theo xác suất.
 
 ### Changed
-- Đổi tên thư mục `evals/` thành `examples/` ở tất cả các skills để người dùng phổ thông dễ hiểu hơn.
+- Đổi tên thư mục `evals/` thành `support/` ở tất cả các skills để người dùng phổ thông dễ hiểu hơn.
 - Cập nhật Frontmatter (YAML) ở toàn bộ *SKILL.md* để mô tả ngắn gọn và bổ sung trường `triggers`.
 - Di dời tất cả frameworks phân mảnh trong từng skill về tập trung tại `knowledge/frameworks/`.
 - Thay đổi ngôn ngữ của `idea-validation` (từ "code" sang "triển khai sản phẩm") để bao trùm cho cả non-tech solopreneur.

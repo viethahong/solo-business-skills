@@ -30,7 +30,7 @@ T1 (Tài năng) → T2 (Tín nhiệm) → T3 (Tiếng tăm) → T4 (Tài chính)
 **Lỗi phổ biến nhất:** Nhảy ngay vào T3 (đăng bài, chạy ads, cố tăng follower) khi
 T1+T2 còn yếu. Kết quả: tiếng tăm lan ra nhưng nội dung rỗng, không tạo được niềm tin.
 
-Chi tiết từng T: xem `references/4T-framework.md`
+Chi tiết từng T: xem `knowledge/frameworks/4T.md`
 
 ---
 

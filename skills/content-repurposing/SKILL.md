@@ -42,7 +42,7 @@ chất lượng cao**, rồi để AI giúp bạn phân tách và tái chế nó
 ### 5T — Hook (Câu mở đầu thu hút) — Sellator
 Framework để mở đầu mọi bài đăng. Dùng cho dòng đầu Twitter/LinkedIn.
 
-Xem chi tiết trong `references/content-frameworks.md`
+Xem chi tiết trong `knowledge/frameworks/5T.md` và các framework khác.
 
 Khi giúp user viết, AI hãy đảm bảo:
 - Câu đầu tiên **không thể bị bỏ qua** — gây ngạc nhiên, tò mò, hoặc đau nhói
