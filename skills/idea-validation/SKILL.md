@@ -1,8 +1,8 @@
 ---
 name: idea-validation
 description: >
-  Kích hoạt khi user có ý tưởng sản phẩm hoặc dịch vụ mới và muốn biết nên làm tiếp hay
-  không. Cũng dùng khi user hỏi "ý tưởng này có ai trả tiền không", "tôi nên build cái
+  Kích hoạt khi user có ý tưởng sản phẩm hoặc dịch vụ mới và muốn biết nên triển khai
+  hay không. Cũng dùng khi user hỏi "ý tưởng này có ai trả tiền không", "tôi nên làm cái
   này không", "làm sao để test ý tưởng", hoặc "tôi không biết mình có đúng thị trường không".
 metadata:
   version: 1.0.0

@@ -1,11 +1,11 @@
 # 🦸 Solopreneur Business Skills
 
-> Bộ AI Skills giúp bạn — người làm chủ doanh nghiệp một mình — có một Co-founder ảo
+> Bộ AI Skills có thể giúp bạn — người làm chủ doanh nghiệp một mình — có một Co-founder ảo
 > hiểu rõ giới hạn nguồn lực và luôn gợi ý giải pháp thực tế, tinh gọn, có thể tự động hóa.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **Được xây dựng từ 13+ năm kinh nghiệm thực chiến của [Hạ Hồng Việt — Sellator](https://sellator.net)**,
+> **Được xây dựng từ 13+ năm kinh nghiệm thực chiến của [Hạ Hồng Việt — Founder Sellator](https://hahongviet.com)**,
 > tích hợp Sellator Knowledge System vào từng workflow.
 
 ---
@@ -13,7 +13,7 @@
 ## Đây là gì?
 
 **Solopreneur Business Skills** là thư viện các file hướng dẫn (Markdown) dành cho AI Agent.
-Khi tích hợp vào dự án, AI sẽ:
+Khi tích hợp vào dự án, AI sẽ có khả năng:
 
 - Hiểu bạn đang kinh doanh theo mô hình nào và giới hạn nguồn lực là bao nhiêu
 - Áp dụng đúng framework theo từng tình huống (không gượng ép, không dàn trải)
@@ -26,11 +26,17 @@ Khi tích hợp vào dự án, AI sẽ:
 | Skill | Kích hoạt khi nào | Framework tích hợp |
 |---|---|---|
 | `solo-business-context` | ⭐ **Đọc trước tiên** — Khai báo bối cảnh dự án | GAMES (Sellator) |
-| `idea-validation` | Test ý tưởng trước khi code | BUY (Sellator) |
+| `customer-research` | Nghiên cứu khách hàng mục tiêu | BUY + VALUE (Sellator) |
+| `idea-validation` | Test ý tưởng trước khi triển khai sản phẩm | BUY (Sellator) |
 | `solo-competitor-analysis` | Tìm ngách, phân tích đối thủ | RARE (Sellator) |
-| `no-code-mvp` | Build sản phẩm/tool với nguồn lực tối thiểu | ABC (Sellator) |
+| `product-model` | Thiết kế mô hình sản phẩm và dịch vụ | ABC + GAMES + BUY + UỒI |
+| `no-code-mvp` | Xây sản phẩm/dịch vụ với nguồn lực tối thiểu | ABC (Sellator) |
 | `workflow-automation` | Tự động hóa việc lặp đi lặp lại | — |
+| `launch-strategy` | Chiến lược ra mắt sản phẩm mới | GAMES + 5E + BUY + FOMO |
+| `sales-script` | Kịch bản bán hàng và thuyết phục | BUY + VALUE + FOMO + 5T |
 | `personal-branding` | Xây thương hiệu cá nhân trên social | 4T (Sellator) |
+| `content-creation` | Sáng tạo nội dung thu hút khách hàng | BUY + VALUE + 5T + 5E |
+| `media-channel` | Xây kênh truyền thông bền vững | — |
 | `content-repurposing` | Biến 1 bài thành nội dung cho 5 kênh | 5T + VALUE + 5E (Sellator) |
 
 ### Cấu trúc mỗi Skill
