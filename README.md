@@ -1,22 +1,22 @@
 # 🦸 Solopreneur Business Skills
 
-> Bộ AI Skills có thể giúp bạn — người làm chủ doanh nghiệp một mình — có một Co-founder ảo
-> hiểu rõ giới hạn nguồn lực và luôn gợi ý giải pháp thực tế, tinh gọn, có thể tự động hóa.
+> Bộ AI Skills có thể giúp bạn, 1 người làm chủ doanh nghiệp một mình có 1 Co-founder ảo
+> có thể hiểu rõ giới hạn nguồn lực và luôn gợi ý giải pháp thực tế, tinh gọn, có khả năng tự động hóa.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **Được xây dựng từ 13+ năm kinh nghiệm thực chiến của [Hạ Hồng Việt — Founder Sellator](https://hahongviet.com)**,
-> tích hợp Sellator Knowledge System vào từng workflow.
+> tích hợp hệ thống tri thức doanh nghiệp của Sellator vào các kỹ năng và quy trình.
 
 ---
 
 ## Đây là gì?
 
-**Solopreneur Business Skills** là thư viện các file hướng dẫn (Markdown) dành cho AI Agent.
+**Solopreneur Business Skills** là thư viện các file hướng dẫn dưới dạng Markdown dành cho AI Agent.
 Khi tích hợp vào dự án, AI sẽ có khả năng:
 
 - Hiểu bạn đang kinh doanh theo mô hình nào và giới hạn nguồn lực là bao nhiêu
-- Áp dụng đúng framework theo từng tình huống (không gượng ép, không dàn trải)
+- Áp dụng đúng mô hình - framework được thiết kế phù hợp cho solopreneur theo từng tình huống (tránh gượng ép, không dàn trải)
 - Ưu tiên giải pháp tinh gọn, tự động hóa được, phù hợp làm một mình
 
 ---
@@ -26,7 +26,7 @@ Khi tích hợp vào dự án, AI sẽ có khả năng:
 | Skill | Kích hoạt khi nào | Framework tích hợp |
 |---|---|---|
 | **🔍 Khám phá & Định hướng** | | |
-| `solo-health-check` | ⭐ **Meta-skill:** Tự định vị dự án đang ở giai đoạn nào | 4-Stage Roadmap |
+| `solo-health-check` | ⭐ **Meta-skill:** Tự định vị bản thân hay dự án đang ở giai đoạn nào | 4-Stage Roadmap |
 | `solo-business-context` | **Khởi tạo:** Khai báo bối cảnh dự án | GAMES (Sellator) |
 | `customer-research` | Nghiên cứu khách hàng mục tiêu | BUY + VALUE (Sellator) |
 | `idea-validation` | Test ý tưởng trước khi triển khai sản phẩm | BUY (Sellator) |
@@ -48,7 +48,7 @@ Khi tích hợp vào dự án, AI sẽ có khả năng:
 | `workflow-automation` | Tự động hóa việc lặp đi lặp lại | — |
 | `solo-finance` | Quản lý dòng tiền, định mức Runway | Value Equation |
 | `customer-onboarding` | Đón tiếp khách mới, xoá bỏ hoài nghi | VALUE |
-| `retention` | Giữ chân khách hàng, giảm Churn | VALUE, ABC |
+| `retention` | Giữ chân khách hàng | VALUE, ABC |
 | `referral-program` | Thiết kế hệ thống mạng lưới giới thiệu | Double-sided Incentive |
 | `solo-productivity` | Quản trị năng lượng, chống Burn-out | Eliminate - Automate - Delegate |
 | `decision-making` | Mental model tự ra quyết định | Expected Value, Inversion |
@@ -169,4 +169,4 @@ MIT License — Xem [LICENSE](LICENSE) để biết thêm.
 
 ---
 
-*Xây dựng từ tri thức của [Hạ Hồng Việt — Sellator](https://hahongviet.com) · Dành cho cộng đồng Solopreneur Việt Nam* 🇻🇳
+*Xây dựng từ tri thức của [Hạ Hồng Việt — Sellator](https://hahongviet.com) cùng nhiều bài học trên hành trình phát triển và làm kinh doanh · Dành cho cộng đồng Solopreneur Việt Nam* 🇻🇳

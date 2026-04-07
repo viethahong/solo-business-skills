@@ -2,7 +2,7 @@
 
 Tất cả những thay đổi quan trọng đối với Solopreneur Business Skills sẽ được ghi chú tại đây.
 
-## [v3.0.0] - 2026-04-06
+## [v0.0.3] - 2026-04-07
 ### Added
 - Thư mục `knowledge/` ở thư mục gốc để chứa toàn bộ reference trung tâm về: `frameworks`, `macro`, `micro`, `personal`.
 - **Meta-skill:** `solo-health-check` - Khám sức khỏe dự án tổn quát để tự định vị bản thân và tìm ra skill tiếp theo cần dùng.
@@ -22,17 +22,17 @@ Tất cả những thay đổi quan trọng đối với Solopreneur Business Sk
 - Di dời tất cả frameworks phân mảnh trong từng skill về tập trung tại `knowledge/frameworks/`.
 - Thay đổi ngôn ngữ của `idea-validation` (từ "code" sang "triển khai sản phẩm") để bao trùm cho cả non-tech solopreneur.
 
-## [v2.1.0] - 2026-04-06
+## [v0.0.2] - 2026-04-06
 ### Added
 - Thêm 6 skills mới: `customer-research`, `product-model`, `launch-strategy`, `sales-script`, `content-creation`, `media-channel`.
 
-## [v2.0.0] - 2026-04-06
+## [v0.0.1] - 2026-04-06
 ### Changed
 - Cấu trúc thư mục mới: mỗi skill không còn là file đơn lẻ mà trở thành thư mục chứa `SKILL.md`, `evals/test-cases.md`.
 - Tích hợp 13 Framework của Sellator Knowledge System vào các skills.
 - Hỗ trợ đa nền tảng Agent (Thêm file `CLAUDE.md`, `AGENTS.md`).
 
-## [v1.0.0] - 2026-04-05
+## [v0.0.0] - 2026-04-05
 ### Added
 - Khởi tạo repository `solopreneur-business-skills`.
 - Cấu trúc cơ bản `solo-business-context.md`, `no-code-mvp.md`, v.v.
