@@ -11,9 +11,9 @@ triggers:
 
 # 🗣️ Personal Branding (Founder-Led Growth)
 
-Trong thời đại AI, sản phẩm có thể bị copy, code có thể bị clone — nhưng **hành trình,
-câu chuyện và quan điểm của Founder thì không ai sao chép được**. Đây là lợi thế cạnh
-tranh độc nhất mà Solopreneur có nhưng công ty lớn không có.
+Trong thời đại AI, sản phẩm có thể bị copy, code có thể bị clone — nhưng **hành trình, câu chuyện và quan điểm của Founder thì không ai sao chép được**. 
+
+**Mission:** Định vị và xây dựng thương hiệu cá nhân dựa trên framework 4T, giúp Solopreneur trở thành "nam châm" thu hút khách hàng và cơ hội mà không cần ngân sách quảng cáo lớn.
 
 ---
 
@@ -88,6 +88,16 @@ Giúp user xây 3-4 trụ nội dung cân bằng:
 | Newsletter | ConvertKit, Beehiiv, Substack |
 
 ---
+
+## 💎 Expected Output
+1.  **Brand Positioning**: Xác định T1 (Tài năng) và T2 (Tín nhiệm) cốt lõi.
+2.  **Content Pillars**: Danh sách 3-4 trụ nội dung chính cho thương hiệu.
+3.  **Engagement Plan**: Chiến lược tương tác và xây dựng cộng đồng trên kênh đã chọn.
+
+## ✅ Quality Checklist
+- [ ] Thương hiệu có dựa trên một lợi thế thực sự (T1) không?
+- [ ] Các trụ nội dung có cân bằng giữa Chuyên môn và Cá nhân không?
+- [ ] Lịch đăng bài có thực tế với nguồn lực của user không?
 
 ## Related Skills
 - Tái chế 1 bài thành nhiều nền tảng: `content-repurposing/`

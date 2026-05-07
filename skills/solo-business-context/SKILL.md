@@ -11,8 +11,11 @@ triggers:
 
 # 🗺️ Solo Business Context
 
-**Đây là file nền tảng.** Trước khi chạy bất kỳ kỹ năng nào, AI phải đọc file này để hiểu:
-ai là user, họ làm gì, họ có gì, và họ bị giới hạn điều gì.
+**Đây là file nền tảng.** Trước khi chạy bất kỳ kỹ năng nào, AI phải đọc file này để hiểu: ai là user, họ làm gì, họ có gì, và họ bị giới hạn điều gì.
+
+**Mission:** Thiết lập "Hệ điều hành bối cảnh" để mọi đề xuất sau đó của AI đều thực tế, khả thi và tối ưu hóa nguồn lực cho Solopreneur.
+
+---
 
 Triết lý cốt lõi: **Nguồn lực hữu hạn → ưu tiên đòn bẩy → tự động hóa những gì lặp lại.**
 
@@ -84,6 +87,17 @@ Khi đọc xong file này, AI cần:
    Product-led, Content-led.
 3. **Ưu tiên No-code / automation** trước khi đề xuất code từ đầu.
 4. **Gợi ý tái sử dụng tài nguyên** — 1 bài blog → Thread Twitter → Email → Short video.
+
+## 💎 Expected Output
+AI phải tạo được một bản tóm tắt "Profile dự án" chắt lọc từ các thông tin trên, highlight rõ:
+1.  **Lợi thế cạnh tranh (Advantage)**
+2.  **Rào cản lớn nhất (Bottleneck)**
+3.  **Chiến lược đòn bẩy ưu tiên** (AI, No-code, Content)
+
+## ✅ Quality Checklist
+- [ ] AI có nhắc đến giới hạn thời gian/ngân sách của user không?
+- [ ] Các đề xuất có tập trung vào đòn bẩy thay vì làm thủ công không?
+- [ ] Framework GAMES có được áp dụng để phản biện chiến lược không?
 
 ## Related Skills
 - Kiểm chứng ý tưởng: `idea-validation/`

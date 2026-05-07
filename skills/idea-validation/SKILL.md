@@ -11,9 +11,9 @@ triggers:
 
 # 💡 Idea Validation — Kiểm chứng ý tưởng trước khi code
 
-Lỗi phổ biến nhất của Solopreneur: **dành 3-6 tháng xây sản phẩm rồi mới phát hiện
-không ai cần**. Kỹ năng này giúp rút ngắn thời gian kiểm chứng xuống còn **1-2 tuần**,
-với chi phí gần bằng không.
+Lỗi phổ biến nhất của Solopreneur: **dành 3-6 tháng xây sản phẩm rồi mới phát hiện không ai cần**. 
+
+**Mission:** Sử dụng các phương pháp "Lean" và "Painted Door" để xác nhận nhu cầu thị trường và khả năng chi trả của khách hàng chỉ trong 1-2 tuần với chi phí tối thiểu.
 
 > **Nguyên tắc cốt lõi:** Tiền là phiếu bầu duy nhất có giá trị. "Nghe hay đấy" từ bạn
 bè không phải validation. Chỉ có người sẵn sàng rút ví — hoặc để lại email với intent
@@ -67,6 +67,16 @@ Xây một Landing Page đơn giản trong **2-4 giờ** (Carrd, Typedream, ho�
 
 Chuyển sang thiết kế sản phẩm tối giản nhất có thể bán được:
 → Xem `no-code-mvp/` để biết cách build nhanh với nguồn lực Solopreneur.
+
+## 💎 Expected Output
+1.  **Validation Strategy**: Lựa chọn phương pháp kiểm chứng (Painted Door, DM, Interview).
+2.  **Conversion Metrics**: Các chỉ số cần đạt để quyết định đi tiếp (Pivot or Persevere).
+3.  **Next Steps**: Kế hoạch hành động cụ thể nếu ý tưởng được pass.
+
+## ✅ Quality Checklist
+- [ ] User đã xác định được ít nhất 1 kênh tìm traffic 0 đồng chưa?
+- [ ] Nút hành động (CTA) có yêu cầu sự cam kết thực sự (email/tiền) không?
+- [ ] Đã áp dụng framework BUY để đánh giá khách hàng chưa?
 
 ## Related Skills
 - Hiểu bối cảnh và nguồn lực: `solo-business-context/`

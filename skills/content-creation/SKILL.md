@@ -11,13 +11,20 @@ triggers:
 
 # ✍️ Content Creation — Sáng tạo Nội dung Thu hút Khách hàng
 
-Nội dung của Solopreneur không cần viral — cần **đúng người thấy và tin tưởng bạn đủ
-để hành động**. Kỹ năng này giúp AI tạo ra nội dung có mục đích, không phải nội dung
-chỉ để có.
+Nội dung của Solopreneur không cần viral — cần **đúng người thấy và tin tưởng bạn đủ để hành động**. 
+
+**Mission:** Sử dụng phong cách `viet-viet` và các framework tâm lý học để tạo ra nội dung có tính chuyển đổi cao, xây dựng uy tín chuyên gia trong thời gian ngắn nhất.
 
 ---
 
-## Framework tạo nội dung: BUY → VALUE → 5T → 5E
+## 🎭 Tone of Voice: Viet-Viet Style
+Mọi nội dung phải tuân thủ triết lý của Hạ Hồng Việt:
+- **Cấu trúc "Nhưng"**: Luôn có cú xoay (pivot) để phản biện các quan niệm thông thường.
+- **Câu ngắn, impact mạnh**: Tránh câu phức dài dòng. Dùng xuống dòng để tạo nhịp điệu.
+- **Thẳng thắn & Thực tế**: Không nói đạo lý chung chung, luôn đi kèm số liệu hoặc trải nghiệm cá nhân.
+- **Tư duy đòn bẩy**: Một bài viết phải phục vụ ít nhất 2 mục đích (giáo dục + bán hàng, hoặc kết nối + lọc tệp).
+
+---
 
 ```
 BUY  → Viết cho ai? (Nếu không rõ đối tượng, nội dung sẽ không chạm được ai)
@@ -109,6 +116,16 @@ Tweet 9: CTA (follow, repost, link)
 ```
 
 ---
+
+## 💎 Expected Output
+1.  **Tiêu đề/Hook**: Ít nhất 3 phương án sử dụng framework 5T.
+2.  **Nội dung chi tiết**: Bản draft hoàn thiện theo phong cách `viet-viet`.
+3.  **Visual Prompt**: Mô tả hình ảnh minh họa phù hợp với bài viết.
+
+## ✅ Quality Checklist
+- [ ] Hook có sử dụng ít nhất 2 chữ T không?
+- [ ] Bài viết có ít nhất một "cú xoay" (pivot) theo style viet-viet không?
+- [ ] Có CTA (Call to Action) rõ ràng và phù hợp với giai đoạn phễu không?
 
 ## Related Skills
 - Phân phối nội dung cho nhiều kênh: `content-repurposing/`

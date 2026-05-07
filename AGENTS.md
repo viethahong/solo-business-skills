@@ -3,10 +3,14 @@
 Đây là bộ kỹ năng (skills) hỗ trợ Solopreneur được thiết kế để làm việc với mọi
 AI Agent tương thích (Antigravity, OpenAI Codex, Cursor, Windsurf, v.v.)
 
-## Cách sử dụng
+## Giao thức thực thi (Execution Protocol)
 
-Mỗi skill nằm trong `skills/<tên-skill>/SKILL.md`. Khi cài vào dự án của bạn,
-agent sẽ tự động tham chiếu skill phù hợp dựa trên yêu cầu của user.
+Để đạt hiệu quả cao nhất, Agent phải tuân thủ quy trình sau:
+
+1.  **Context First**: Luôn đọc `skills/solo-business-context/SKILL.md` trước tiên để nắm bắt bối cảnh của User (nguồn lực, mục tiêu).
+2.  **Skill Mapping**: Xác định skill phù hợp nhất từ Skill Map bên dưới.
+3.  **Step-by-Step**: Thực hiện theo đúng workflow trong file `SKILL.md`. Nếu thiếu thông tin từ User, hãy dừng lại và hỏi thay vì giả định.
+4.  **Style Check**: Sử dụng phong cách `viet-viet` cho mọi nội dung truyền thông/viết lách.
 
 ## Skill Map
 

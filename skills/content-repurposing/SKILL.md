@@ -10,8 +10,9 @@ triggers:
 
 # ♻️ Content Repurposing — Làm 1, dùng được 10
 
-Solopreneur không có team content. Nhưng bạn có AI. Nguyên tắc: **tạo 1 nội dung gốc
-chất lượng cao**, rồi để AI giúp bạn phân tách và tái chế nó cho mọi kênh.
+Solopreneur không có team content. Nhưng bạn có AI. 
+
+**Mission:** Tối đa hóa giá trị của một nội dung gốc bằng cách phân tách và chuyển đổi nó thành nhiều định dạng phù hợp với từng nền tảng, đảm bảo tính nhất quán về thông điệp và phong cách `viet-viet`.
 
 ---
 
@@ -106,6 +107,16 @@ Sau hook, nội dung phải có ít nhất 1 trong 5 yếu tố:
 | Thứ 6-7 | — | Short video script |
 
 ---
+
+## 💎 Expected Output
+1.  **Distribution Map**: Danh sách các kênh và định dạng sẽ triển khai.
+2.  **Content Assets**: Các bản tóm tắt/post chi tiết cho từng kênh (Twitter, LinkedIn, Email).
+3.  **Repurposing Calendar**: Lịch trình phân phối nội dung đã tái chế.
+
+## ✅ Quality Checklist
+- [ ] Nội dung tái chế có giữ vững phong cách `viet-viet` không?
+- [ ] Hook của từng nền tảng có được tối ưu theo framework 5T không?
+- [ ] Có link dẫn ngược lại nội dung gốc (Pillar content) không?
 
 ## Related Skills
 - Xây lịch đăng bài và thương hiệu: `personal-branding/`
